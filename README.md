@@ -16,6 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4sbzc6o003509lak4vm5w28/stats?cursusId=21&coalitionId=74" alt="ayassir's 42 stats" /></a>
 <div>
+  
+![ayassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=junik1337&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junik1337&layout=compact)](https://github.com/junik1337/github-readme-stats)
