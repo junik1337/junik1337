@@ -1,23 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Abderrachid%20Yassir!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+
 <h3 align="center">A passionate programmer from Morocco!</h3>
 
-- 🔭 I’m currently working on **MINISHELL**
 
-- 🌱 I’m currently learning **C, C++**
+<a href="https://profile.intra.42.fr/users/ayassir"><img src="https://img.shields.io/badge/Born2code-ayassir-2ea44f?style=for-the-badge&logo=42&logoColor=33" alt="Born2code - ayassir"></a>
+<a href="twitter.com/junik1337"><img src="https://img.shields.io/badge/Twitter-abdrashid-2ea44f?style=for-the-badge&logo=Twitter" alt="Twitter - abdrashid"></a>
+<a href="https://codeforces.com/profile/junik1337"><img src="https://img.shields.io/badge/Codeforces-junik1337-2ea44f?style=for-the-badge&logo=codeforces" alt="Codeforces - junik1337"></a>
+<img src="https://img.shields.io/badge/Discord-junik%231046-2ea44f?style=for-the-badge&logo=discord" alt="Discord - junik#1046">
 
-- 📫 How to reach me **abderrachidyassir@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdrashid1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdrashid1337" height="30" width="40" /></a>
-<a href="https://twitter.com/junik1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junik1337" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/junik1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="junik1337" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+🌱 I'm currently a student at **1337khouribga**.
 
 ---
 
