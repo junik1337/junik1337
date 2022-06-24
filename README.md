@@ -27,4 +27,4 @@
 
 ---
 
-![ayassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=junik1337&show_icons=true&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junik1337&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/junik1337/github-readme-stats&theme=radical)
+![ayassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=junik1337&show_icons=true&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junik1337&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/junik1337/github-readme-stats&theme=radical)
