@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Discord-junik%231046-2ea44f?style=for-the-badge&logo=discord" alt="Discord - junik#1046">
 
 🌱 I'm currently a student at **1337khouribga**.
-
+--
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ayassir" alt="ayassir's 42 stats" /></a>
 </div>
