@@ -12,6 +12,9 @@
 
 🌱 I'm currently sharpening my skills in Frontend Development, focusing on Next.js, and continuing my studies at **1337 Khouribga**.
 
+<a href="your-website-url"><img src="https://img.shields.io/badge/Website-URL-2ea44f?style=for-the-badge" alt="Website"></a>
+
+
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ayassir" alt="ayassir's 42 stats" /></a>
 </div>
