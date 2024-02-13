@@ -5,8 +5,8 @@
   <a href="https://twitter.com/junik1337"><img src="https://img.shields.io/badge/Twitter-abdrashid-2ea44f?style=for-the-badge&logo=Twitter" alt="Twitter - abdrashid"></a>
   <a href="https://codeforces.com/profile/junik1337"><img src="https://img.shields.io/badge/Codeforces-junik1337-2ea44f?style=for-the-badge&logo=codeforces" alt="Codeforces - junik1337"></a>
   <img src="https://img.shields.io/badge/Discord-junik%231046-2ea44f?style=for-the-badge&logo=discord" alt="Discord - junik#1046">
-  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Profile-2ea44f?style=for-the-badge&logo=linkedin" alt="LinkedIn - Your Name"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/My_Website-Visit-2ea44f?style=for-the-badge" alt="Website"></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/junik1337/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-2ea44f?style=for-the-badge&logo=linkedin" alt="LinkedIn - Abderrachid Yassir"></a>
+  <a href="https://0xjunik.vercel.app/"><img src="https://img.shields.io/badge/My_Website-Visit-2ea44f?style=for-the-badge" alt="0xjunik"></a>
 </div>
 
 <h3 align="center">A Passionate Frontend Developer and Programmer from Morocco!</h3>
