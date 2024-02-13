@@ -3,25 +3,19 @@
 <h3 align="center">A Passionate Frontend Developer from Morocco 🇲🇦</h3>
 
 <div align="center">
-  <a href="https://profile.intra.42.fr/users/ayassir">
-    <img src="https://img.shields.io/badge/Born2code-ayassir-2ea44f?style=for-the-badge&logo=42&logoColor=white" alt="42 Profile">
-  </a>
-  <a href="https://twitter.com/junik1337">
-    <img src="https://img.shields.io/badge/Twitter-abdrashid-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://codeforces.com/profile/junik1337">
-    <img src="https://img.shields.io/badge/Codeforces-junik1337-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="https://discord.com/users/junik#1046">
-    <img src="https://img.shields.io/badge/Discord-junik%231046-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  <a href="https://profile.intra.42.fr/users/ayassir"><img src="https://img.shields.io/badge/Born2code-ayassir-2ea44f?style=for-the-badge&logo=42&logoColor=33" alt="Born2code - ayassir"></a>
+  <a href="https://twitter.com/junik1337"><img src="https://img.shields.io/badge/Twitter-abdrashid-2ea44f?style=for-the-badge&logo=Twitter" alt="Twitter - abdrashid"></a>
+  <a href="https://codeforces.com/profile/junik1337"><img src="https://img.shields.io/badge/Codeforces-junik1337-2ea44f?style=for-the-badge&logo=codeforces" alt="Codeforces - junik1337"></a>
+  <img src="https://img.shields.io/badge/Discord-junik%231046-2ea44f?style=for-the-badge&logo=discord" alt="Discord - junik#1046">
+  <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/junik1337/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-2ea44f?style=for-the-badge&logo=linkedin" alt="LinkedIn - Abderrachid Yassir"></a>
+  <a href="https://0xjunik.vercel.app/"><img src="https://img.shields.io/badge/My_Website-Visit-2ea44f?style=for-the-badge" alt="0xjunik"></a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
 
-I'm Abderrachid Yassir, currently enhancing my skills in Frontend Development with a focus on Next.js. My journey began in 2021 at [1337 Khouribga](https://www.1337.ma/), where I dived into coding with C and quickly expanded to building responsive and user-centric web applications.
+I'm **Abderrachid Yassir**, currently enhancing my skills in Frontend Development with a focus on **Next.js**. My journey began in 2021 at **[1337 Khouribga](https://www.1337.ma/)**, where I dived into coding with **C Language** and quickly expanded to building responsive and user-centric web applications.
 
 ### 🌱 What I'm Learning:
 
@@ -40,18 +34,23 @@ I'm Abderrachid Yassir, currently enhancing my skills in Frontend Development wi
 
 - **Pong Game Website**: A modern take on the classic game, utilizing WebSocket for real-time gameplay.
 - **Personal Portfolio**: Showcasing my projects and skills, built with Next.js and hosted on Vercel.
+- **Inception**: I successfully virtualized a comprehensive infrastructure within a personal virtual machine, encompassing multiple Docker containers each dedicated to a specific service.
 
 ### 📫 How to Reach Me:
 
 Feel free to connect with me for collaborations or just to say hi!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- **Portfolio**: [Your Portfolio URL](https://yourportfolio.com)
+- **Email**: [abderrachidyassir@gmail.com](mailto:abderrachidyassir@gmail.com)
+- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/junik1337/))
+- **Portfolio**: [Your Portfolio URL]([https://yourportfolio.com](https://0xjunik.vercel.app/))
 
 ---
 
 <div align="center">
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ayassir" alt="ayassir's 42 stats" /></a>
+</div>
 
 ### Github Stats
 
