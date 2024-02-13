@@ -15,8 +15,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4sbzc6o003509lak4vm5w28/stats?cursusId=21&coalitionId=74" alt="ayassir's 42 stats" />
-</a>
+[![ayassir's 42 stats](https://badge.mediaplus.ma/darkblue/ayassir)](https://github.com/oakoudad/badge42)</a>
 </div>
 
 ---
