@@ -4,7 +4,7 @@
   <a href="https://profile.intra.42.fr/users/ayassir"><img src="https://img.shields.io/badge/Born2code-ayassir-2ea44f?style=for-the-badge&logo=42&logoColor=33" alt="Born2code - ayassir"></a>
   <a href="https://twitter.com/junik1337"><img src="https://img.shields.io/badge/Twitter-abdrashid-2ea44f?style=for-the-badge&logo=Twitter" alt="Twitter - abdrashid"></a>
   <a href="https://codeforces.com/profile/junik1337"><img src="https://img.shields.io/badge/Codeforces-junik1337-2ea44f?style=for-the-badge&logo=codeforces" alt="Codeforces - junik1337"></a>
-  <a href="0xjunik.vercel.app"><img src="https://img.shields.io/badge/Website-URL-2ea44f?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://0xjunik.vercel.app/"><img src="https://img.shields.io/badge/Website-URL-2ea44f?style=for-the-badge" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Discord-junik%231046-2ea44f?style=for-the-badge&logo=discord" alt="Discord - junik#1046">
 </div>
 
