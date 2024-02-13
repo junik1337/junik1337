@@ -16,6 +16,9 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ayassir" alt="ayassir's 42 stats" /></a>
 </div>
 
+<div align="center">
+  
 ### Github Stats
 | [![junik1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=junik1337&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/junik1337?tab=repositories) | [![junik1337's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junik1337&layout=compact&hide_border=true&theme=jolly&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/junik1337?tab=repositories) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+</div>
