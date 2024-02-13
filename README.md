@@ -14,9 +14,7 @@
 
 ---
 
-<div align="center">
-![ayassir's 42 stats](https://badge.mediaplus.ma/darkblue/ayassir)](https://github.com/oakoudad/badge42)
-</div>
+![[ayassir's 42 stats](https://badge.mediaplus.ma/darkblue/ayassir)](https://github.com/oakoudad/badge42)
 
 ---
 
