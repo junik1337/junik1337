@@ -41,8 +41,8 @@ I'm **Abderrachid Yassir**, currently enhancing my skills in Frontend Developmen
 Feel free to connect with me for collaborations or just to say hi!
 
 - **Email**: [abderrachidyassir@gmail.com](mailto:abderrachidyassir@gmail.com)
-- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/junik1337/))
-- **Portfolio**: [Your Portfolio URL]([https://yourportfolio.com](https://0xjunik.vercel.app/))
+- **LinkedIn**: [https://www.linkedin.com/in/junik1337/)]([https://www.linkedin.com/in/junik1337/])
+- **Portfolio**: [https://0xjunik.vercel.app/]([https://0xjunik.vercel.app/])
 
 ---
 
