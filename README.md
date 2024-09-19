@@ -42,7 +42,7 @@ Feel free to connect with me for collaborations or just to say hi!
 
 - **Email**: [abderrachidyassir@gmail.com](mailto:abderrachidyassir@gmail.com)
 - **LinkedIn**: [Abderrachid Yassir](https://www.linkedin.com/in/junik1337/)
-- **Portfolio**: [0xjunik's Website](https://0xjunik.vercel.app/)
+- **Portfolio**: [0xjunik's Website](https://abderrachid.xyz/)
 
 ---
 
