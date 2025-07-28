@@ -17,17 +17,10 @@
 
 I'm **Abderrachid Yassir**, currently enhancing my skills in Frontend Development with a focus on **Next.js**. My journey began in 2021 at **[1337 Khouribga](https://www.1337.ma/)**, where I dived into coding with **C Language** and quickly expanded to building responsive and user-centric web applications.
 
-### 🌱 What I'm Learning:
-
-- **Next.js** for server-rendered React applications
-- **Tailwind CSS** for styling
-- **TypeScript** for type-safe code
-- Continuous Integration/Continuous Deployment (**CI/CD**) practices
-
 ### 🛠 Technologies I Work With:
 
-- JavaScript (ES6+), React, Next.js
-- CSS, Tailwind CSS, SASS
+- JavaScript (ES6+), React, Next.js, Vite 
+- CSS, Tailwind CSS, SASS, TansStack, Sanity
 - Git, GitHub, Docker
 
 ### 🚀 Projects I'm Proud Of:
